@@ -17,7 +17,7 @@ src/**/vendor/
 ### Node ###
 node_modules
 
-### IDE ###
+### IDE ##
 .idea
 
 ### Mac ###
